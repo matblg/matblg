@@ -1,7 +1,7 @@
 # Hi, I'm Mathis 🤖  
 I'm a U3 Software Engineering student at McGill University  
 
-Things I like: **Robotics**, **Systems**, **Data Science**, **Photography**, **Outdoors**, **Lifting**
+Things I like: **Robotics**, **Systems**, **Data Science**, **Photography**, **Being Outdoors**, **Lifting**
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/mathis-belanger/) or by [email](mailto:mathisbelangerr@gmail.com)  
 
