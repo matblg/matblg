@@ -1,4 +1,4 @@
-# Hi, I'm Mathis 👋  
+# Hi, I'm Mathis 🤖  
 [LinkedIn](https://www.linkedin.com/in/mathis-belanger/) • [Email](mailto:mathisbelangerr@gmail.com)  
 
 ## About  
