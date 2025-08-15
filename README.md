@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mathis 👋  
+[LinkedIn](https://www.linkedin.com/in/mathis-belanger/) • [Email](mailto:mathisbelangerr@gmail.com)  
 
-<!--
-**matblg/matblg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About  
+U3 Software Engineering student at McGill University  
+Interests: **Robotics**, **Systems**, **Data Science**  
 
-Here are some ideas to get you started:
+## Skills  
+**Languages:** Python, Java, C++, C, TypeScript, Bash, SQL, ARM Assembly  
+**Frameworks:** Spring, Hibernate, Angular, Flutter, React  
+**Tools:** Docker, Azure DevOps, Git, JUnit, Jest, Playwright  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience  
+**Embedded System Developer Intern — Caterpillar Inc.** 
+- Developped software for hauling truck embedded system (C++, Angular, Python)
+
+**Robotic Engineering Intern — Vention** 
+- Built custom robotic applications and features (Python, React).  
+
+
+## Projects  
+**[GameNight](https://github.com/McGill-ECSE321-Winter2025/project-group-14)** — Board Game rental management system (Java Spring, Hibernate, PostgreSQL).  
+**[Automotive Sales Chat Assistant](https://github.com/Tatok-n/HMART)** — LLM-based car shopping tool (Flutter, Python).  
+**CoolSupplies** — School supplies order management application (Java/JavaFX)
+
