@@ -21,5 +21,5 @@ Interests: **Robotics**, **Systems**, **Data Science**
 ## Projects  
 **[GameNight](https://github.com/McGill-ECSE321-Winter2025/project-group-14)** — Board Game rental management system (Java Spring, React, PostgreSQL).  
 **[Automotive Sales Chat Assistant](https://github.com/Tatok-n/HMART)** — LLM-based car shopping tool (Flutter, Python).  
-**CoolSupplies** — School supplies order management application (Java/JavaFX)
+**[CoolSupplies](https://github.com/matblg/CoolSupplies)** — School supplies order management application (Java/JavaFX)
 
