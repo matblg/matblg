@@ -1,9 +1,7 @@
 # Hi, I'm Mathis 🤖  
-[LinkedIn](https://www.linkedin.com/in/mathis-belanger/) • [Email](mailto:mathisbelangerr@gmail.com)  
-
-## About  
-U3 Software Engineering student at McGill University  
-Interests: **Robotics**, **Systems**, **Data Science**  
+I'm a U3 Software Engineering student at McGill University  
+Things I like: **Robotics**, **Systems**, **Data Science**  
+You can find me on [LinkedIn](https://www.linkedin.com/in/mathis-belanger/) or by [email](mailto:mathisbelangerr@gmail.com)  
 
 ## Skills  
 **Languages:** Python, Java, C++, C, TypeScript, Bash, SQL, ARM Assembly  
