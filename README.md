@@ -13,8 +13,8 @@ Robotic Intern @ [Vention](https://vention.io/) | SWE Intern @ [Caterpillar](htt
 You can find me on [LinkedIn](https://www.linkedin.com/in/mathis-belanger/) or by [email](mailto:mathisbelangerr@gmail.com)  
 
 ## Things I've worked on
-
-- 🃏 **[GameNight](https://github.com/McGill-ECSE321-Winter2025/project-group-14)** — Board Game rental management system (Java Spring, React, PostgreSQL).  
+- 🃏 **[BlackJack](https://github.com/matblg/blackjack) - A simple BlackJack game, made to practice and run data experiments (C++)
+- 🎲 **[GameNight](https://github.com/McGill-ECSE321-Winter2025/project-group-14)** — Board Game rental management system (Java Spring, React, PostgreSQL).  
 - 🚗 **[Automotive Chatbot](https://github.com/Tatok-n/HMART)** — LLM-based car shopping tool (Flutter, Python).  
 - 📚 **[CoolSupplies](https://github.com/matblg/CoolSupplies)** — School supplies order management application (Java/JavaFX)
 
