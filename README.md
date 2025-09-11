@@ -1,7 +1,7 @@
 # Hi, I'm Mathis 🍊  
 I'm a U3 Software Engineering student at McGill University  
 
-Robotic Intern @ [Vention](https://vention.io/) | SWE Intern @ [Caterpillar](https://www.caterpillar.com/)
+Prev. Robotic Intern @ [Vention](https://vention.io/) | SWE Intern @ [Caterpillar](https://www.caterpillar.com/)
 ## Things I like
 - 🤖 **Robotics**
 - 💻 **Systems** 
