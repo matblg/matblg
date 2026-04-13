@@ -16,6 +16,7 @@ I'm a U3 Software Engineering student at McGill University
 You can find me on [LinkedIn](https://www.linkedin.com/in/mathis-belanger/) or by [email](mailto:mathisbelangerr@gmail.com)  
 
 ## Things I've worked on
+- **UNIX-like OS** - Operating System simulator featuring a working shell, a process scheduler and a vitual memory manager (C)
 - **[BlackJack](https://github.com/matblg/blackjack)** - A simple BlackJack game backend, made to run reinforcement learning (C++)
 - **[GameNight](https://github.com/McGill-ECSE321-Winter2025/project-group-14)** — Board Game rental management system (Java Spring, React, PostgreSQL).  
 - **[Automotive Chatbot](https://github.com/Tatok-n/HMART)** — LLM-based car shopping tool (Flutter, Python).  
