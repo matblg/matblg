@@ -1,6 +1,7 @@
 # Hi, I'm Mathis 🍊  
 I'm a U3 Software Engineering student at McGill University  
 
+- Incoming SDE intern @ [Amazon](https://www.amazon.com/)
 - DevOps Intern @ [Intact](https://www.intact.ca/)
 - Prev. SWE Intern @ [Caterpillar](https://www.caterpillar.com/)
 - Prev. Robotic Intern @ [Vention](https://vention.io/)
