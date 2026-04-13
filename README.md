@@ -24,7 +24,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mathis-belanger/) or b
 - **[CoolSupplies](https://github.com/matblg/CoolSupplies)** — School supplies order management application (Java/JavaFX)
 
 ## Things I've used
-- Languages: C++, Python, Java, Bash, C, ARM assembly, SQL, TypeScript/HTML/CSS 
+- Languages: C++, Python, Java, Bash, C, Rust, ARM assembly, SQL, TypeScript/HTML/CSS 
 - Tools: Linux, Git, Docker, Kubernetes, Terraform, MongoDB, Azure, CI/CD, Gradle, Junit, LaTeX
 - Frameworks: Spring, Hibernate, Angular, Flutter, React
 
